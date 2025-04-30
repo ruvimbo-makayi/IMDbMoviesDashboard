@@ -44,4 +44,4 @@
     </ul>
     <h2>IMDb Dashbaord</h2>
     
-    
+  ![image alt](https://github.com/ruvimbo-makayi/IMDbMoviesDashboard/blob/main/Dashboard%201%20(3).png?raw=true)
